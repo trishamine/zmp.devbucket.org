@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://zmp.devbucket.org/sitemap.xml

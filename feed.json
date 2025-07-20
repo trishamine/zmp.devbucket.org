@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Zircon Media Player (by devbucket.org)",
+    "description": "",
+    "home_page_url": "http://zmp.devbucket.org",
+    "feed_url": "http://zmp.devbucket.org/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "devbucket.org"
+    },
+    "items": [
+    ]
+}
